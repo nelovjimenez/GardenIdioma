@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">JARDIN</string>
+    <string name="descripcion1">Jardín, Antioquia, es uno de los pueblos más lindos de Colombia, un pueblito paisa muy colorido y acogedor, que está rodeado de increíbles paisajes naturales, cascadas, montañas y de una gran biodiversidad.
+        El municipio de Jardín se encuentra en el suroccidente antioqueño, sobre las faldas de la cordillera y a menos de 4 horas de la ciudad de Medellín.</string>
+    <string name="descripcion2">Típicamente, el plato esencial son las Truchas recién pescadas en Las Trucheras, donde el visitante puede realizar su propia pesquería de este suculento pez, y hacerlo preparar a su antojo. Adicionalmente, la cocina típica antioqueña, entre ella la internacional Bandeja paisa</string>
+    <string name="descripcion3">En Jardín hay planes para todos los gustos, pero una de las mejores ideas es recorrer sus veredas en busca de rutas de trekking y del imponente paisaje cafetero, tambien podras disfrutar de la adrenalina con el canopy(Tirolina). Así que si quieres explorar todo lo que ofrece Jardín, quédate mínimo 3 días y llénate de energía para sacarle provecho a este pueblo</string>
+    <string name="descripcion4">En Jardín, Antioquia, puedes encontrar hostales y hoteles muy coloridos y hospedajes rurales que conservan la arquitectura local y la fusionan con propuestas artísticas y sostenibles. Te recomendamos fijarte en estos alojamientos que cuentan con protocolos de bioseguridad: Hostal Charco Corazón, Hotel Valdivia Plaza, Hotel Plantación, Casa Passiflora, Hotel Kantarrana Urbana, Balcones del Parque y Hotel La Casona.</string>
+    <string name="descripcion5">En Jardin tenemos unos paisejes realmente estupendos como el mirador cristo rey donde podrás apreciar una gran vista panorámica de Jardín y divisar todas las montañas que lo rodean Cuando decidas bajar del Mirador de Cristo Rey, luego de bajar tendrás que hacerlo por un sendero muy bonito que atraviesa el bosque de pino, algunos platanales, cafetales, y hasta un río. </string>
+
+    <string name="Texto">Mi nombre es Enmanuel Vargas Jimenez, soy estudiante de tecnico laboral en desarrollo de software del centro de educacion CESDE.
+    Soy un programador freelance, con la destreza suficiente para desarrollar paginas web y app para moviles, ademas de desempeñarme en otros campos dentro del concepto de programacion</string>
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+
+</resources>

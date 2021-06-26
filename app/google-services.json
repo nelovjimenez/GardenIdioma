@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262080300532",
+    "project_id": "crudmoviles-2fd0c",
+    "storage_bucket": "crudmoviles-2fd0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262080300532:android:cc2ab9af97c228f9b225a1",
+        "android_client_info": {
+          "package_name": "com.example.jardin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262080300532-5derd6k37hi9r1895f0mqf3ecvutbuc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnFCKRC3hIiP0ZNfgunuR6gAoan_tE7z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262080300532-5derd6k37hi9r1895f0mqf3ecvutbuc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
